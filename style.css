@@ -1,0 +1,62 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+header div.aja {
+  border: 2px solid white;
+  border-radius: 9px;
+  margin: -75px 16px 0 16px;
+}
+
+div.ajh {
+  height: 100px;
+  background-color: #0d6efd;
+}
+
+.bt-b {
+  background-color: #0d6efd;
+  color: white;
+  font-weight: 700;
+  width: 30%;
+}
+
+.bt-a {
+  color: #3d2888;
+  font-weight: 700;
+  width: 67%;
+}
+
+.form-control {
+  font-weight: 700;
+  font-size: 0.85rem;
+}
+
+/* section 1 */
+/* .flex-column-reverse {
+    border: 2px solid white;
+    border-radius: 9px;
+    border-left: 8px solid #3d2888;
+    width: 48%;
+    margin-top: 10px;
+  } */
+
+section .container-fluid .card-header {
+  border-radius: 9px;
+  width: 47%;
+  margin-top: 15px;
+  background-color: white;
+  border-color: white;
+  border-left: 8px solid #0d6efd;
+  padding: 15px;
+}
+
+.flex-column-reverse h1 {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.flex-column-reverse h4 {
+  font-size: 13px;
+  font-weight: 500;
+}
+/* akhir section1 */
